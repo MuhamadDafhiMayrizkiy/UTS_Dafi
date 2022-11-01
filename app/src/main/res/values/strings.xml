@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS_Dafi</string>
+    <string-array name="jalur_arr">
+        <item>Jalur Pendaftaran</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes Tertulis</item>
+        <item>Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
